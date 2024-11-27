@@ -28,17 +28,17 @@ This project implements path planning for a mobile robot using Q-Learning in MAT
    cd Mobile_Robot_Navigation_Using_QLearning
 
 
-2. **Run the Simulink model**
+2. **Run the Simulink model:**
    Open singleRobotControl.slx in MATLAB Simulink and run the simulation.
 
-3. **Visualize the path**
+3. **Visualize the path:**
    Run plotter.m after configuring the map with map_R.m.
 
 ## Usage
-1. **Modify the environment**
+1. **Modify the environment:**
    Update map_R.m to change the reward matrix.
 
-2. **Simulate navigation**
+2. **Simulate navigation:**
    Use Simulink to run the robot's navigation and observe how it learns the optimal path.
 
 ## Results
