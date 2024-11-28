@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements path planning for a mobile robot using Q-Learning in MATLAB and Simulink. The robot learns to navigate in a grid-like environment, optimizing its path based on rewards.
+<p> <img src="https://github.com/user-attachments/assets/28bf754f-6b09-4107-a2c2-a1ca95ec814d" width="1000"> </p> 
 
 ## Features
 - **Q-Learning Algorithm:** Implements reinforcement learning for navigation.
@@ -30,6 +31,7 @@ This project implements path planning for a mobile robot using Q-Learning in MAT
 
 2. **Run the Simulink model:**
    Open singleRobotControl.slx in MATLAB Simulink and run the simulation.
+<p> <img src="https://github.com/user-attachments/assets/aebb5aa6-802c-4333-9776-4daa0d130de2" width="1000"> </p> 
 
 3. **Visualize the path:**
    Run plotter.m after configuring the map with map_R.m.
@@ -43,6 +45,7 @@ This project implements path planning for a mobile robot using Q-Learning in MAT
 
 ## Results
 - Execute plotter.m to visualize the results.
+  <p> <img src="https://github.com/user-attachments/assets/f5339b35-7c7b-4d41-8ffb-22478599aa48" width="1000"> </p>
 
 ## Contact
 For questions or suggestions, please contact Amin Lari.
