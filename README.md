@@ -26,7 +26,7 @@ This project implements path planning for a mobile robot using Q-Learning in MAT
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AminLari/Mobile_Robot_Navigation_Using_QLearning.git
-   cd Mobile_Robot_Navigation_Using_QLearning
+   cd Mobile-Robot-Navigation-Using-QLearning
 
 
 2. **Run the Simulink model:**
